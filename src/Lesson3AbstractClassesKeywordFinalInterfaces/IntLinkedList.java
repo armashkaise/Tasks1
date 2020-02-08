@@ -49,7 +49,7 @@ public class IntLinkedList implements IntList{
             last = last.next;
         }
 
-        return arrayList;
+        return "arrayList";
     }
 
     class Node {

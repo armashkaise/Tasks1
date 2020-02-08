@@ -1,7 +1,5 @@
 package Lesson3AbstractClassesKeywordFinalInterfaces;
 
-import Lesson3AbstractClassesKeywordFinalInterfaces.IntLinkedList;
-
 public class Main {
     public static void main(String[] args) {
         IntList intLinkedList = new IntLinkedList();
